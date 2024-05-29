@@ -62,9 +62,9 @@ li{
   font-size: 2rem;
   font-weight: bold;
   padding: 15px;
-  background-color: rgb(109, 105, 109);
+  background-color: rgb(255, 253, 255);
   margin-bottom: 10px;
-  border: 1px solid rgb(150, 147, 150);
+  border: 1px solid rgb(8, 8, 8);
   border-radius: 5px;
   display: flex;
   align-items: center;
